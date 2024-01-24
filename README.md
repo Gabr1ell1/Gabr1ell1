@@ -1,4 +1,4 @@
-## 💙 Olá, Eu sou a Gabrielly Nascimento
+1## 💙 Olá, Eu sou a Gabrielly Nascimento
 
 
 - 🥈 Ano Estudando Desenvolvimento de Sistemas na Etec Zona Leste...
@@ -7,7 +7,7 @@
   <a href="https://github.com/Gabr1ell1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1ell1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1&hide_progress=false&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&hide_progress=false&theme=tokyonight">
 </div>
     
 ##
