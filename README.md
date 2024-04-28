@@ -1,4 +1,4 @@
- 💙 Olá, me chamo Gabrielly! 
+ 💙 <style font="Optima, sans-serif">Olá, me chamo Gabrielly!</style> 
 ## Bem vindo ao meu perfil GitHub 👋
 
 🖇️ Esotu no 2° Estudando Desenvolvimento de Sistemas na Etec Zona Leste
