@@ -10,7 +10,8 @@
 </div>
 
 
-## Tecnologias utilizadas
+<!-- 
+ ## Tecnologias utilizadas
 
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="36" height="36" /> 
@@ -24,6 +25,7 @@
           
           
 </div>
+ -->
 
 
 
