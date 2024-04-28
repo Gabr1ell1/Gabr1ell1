@@ -1,9 +1,5 @@
  💙 <h1>Olá, me chamo Gabrielly!</h1> 
- <style>
-h1 {
-    font-family: Optima, sans-serif;
-}
-</style>
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 🖇️ Esotu no 2° Estudando Desenvolvimento de Sistemas na Etec Zona Leste
