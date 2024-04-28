@@ -1,4 +1,4 @@
- 💙 <h1>Olá, me chamo Gabrielly!</h1> 
+ 💙Olá, me chamo Gabrielly! 
 
 ## Bem vindo ao meu perfil GitHub 👋
 
