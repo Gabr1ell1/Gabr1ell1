@@ -1,8 +1,3 @@
- 💙Olá, me chamo Gabrielly! 
-
-## Bem vindo ao meu perfil GitHub 👋
-
-🖇️ Esotu no 2° Estudando Desenvolvimento de Sistemas na Etec Zona Leste
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
