@@ -3,6 +3,7 @@
 <a href="https://github.com/Gabr1ell1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula)
 
 
