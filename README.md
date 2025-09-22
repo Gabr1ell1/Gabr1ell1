@@ -2,10 +2,7 @@
 <div>
 <a href="https://github.com/Gabr1ell1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
-	
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabr1ell1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Olá%20👋%20eu%20sou%20o%20Gabriel!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 	
 
@@ -53,7 +50,7 @@ HTML é a base de toda aplicação web. É a linguagem de marcação que estrutu
 ##
 Sempre busco aprender e experimentar novas tecnologias, evoluindo continuamente como desenvolvedor. 
 Meu objetivo é não apenas dominar as ferramentas que já utilizo, mas também explorar novas linguagens, frameworks e metodologias que possam agregar valor aos projetos.
-
+Conheça meu perfil no Linkedln!!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriellynasserb)
 
 
