@@ -2,9 +2,12 @@
 <div>
 <a href="https://github.com/Gabr1ell1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabr1ell1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+
+
 </div>
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula)
 
 
 ## Tecnologias utilizadas
