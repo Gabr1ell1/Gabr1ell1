@@ -1,12 +1,9 @@
 
 <div>
 <a href="https://github.com/Gabr1ell1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Olá%20👋%20eu%20sou%20o%20Gabriel!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Olá%20👋%20eu%20sou%20o%20Gabrielly!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 	
-
-
 ## Tecnologias utilizadas
 🖌️ Frontend
 
