@@ -54,6 +54,7 @@ HTML é a base de toda aplicação web. É a linguagem de marcação que estrutu
 Sempre busco aprender e experimentar novas tecnologias, evoluindo continuamente como desenvolvedor. 
 Meu objetivo é não apenas dominar as ferramentas que já utilizo, mas também explorar novas linguagens, frameworks e metodologias que possam agregar valor aos projetos.
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriellynasserb)
 
 
 
