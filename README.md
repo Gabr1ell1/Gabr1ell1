@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/Gabr1ell1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1ell1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1ell1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -45,6 +45,8 @@ HTML é a base de toda aplicação web. É a linguagem de marcação que estrutu
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
  
 </div>
+
+
 
 Sempre busco aprender e experimentar novas tecnologias, evoluindo continuamente como desenvolvedor. 
 Meu objetivo é não apenas dominar as ferramentas que já utilizo, mas também explorar novas linguagens, frameworks e metodologias que possam agregar valor aos projetos.
