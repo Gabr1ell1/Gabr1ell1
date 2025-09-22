@@ -1,6 +1,6 @@
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Gabr1ell1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1ell1&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabr1ell1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -8,9 +8,9 @@
 
 ## Tecnologias utilizadas
 🖌️ Frontend
+
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência e venho desenvolvendo projetos:
 
-<div align="center">
 Base de toda aplicação web. É a linguagem de marcação que estrutura o conteúdo das páginas que desenvolvo.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 
@@ -23,7 +23,9 @@ Base de toda aplicação web. É a linguagem de marcação que estrutura o conte
  Ferramenta de design que utilizo para criar protótipos e layouts antes de começar o desenvolvimento, unindo o lado criativo ao técnico.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
 
+ 
  ⚙️ Backend
+ 
  Linguagem orientada a objetos, muito usada em grandes sistemas. Como aluno, me ajuda a entender conceitos sólidos de programação. 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
  
@@ -40,6 +42,7 @@ Base de toda aplicação web. É a linguagem de marcação que estrutura o conte
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code>
 
  🗄️ Banco de Dados
+ 
  Banco de dados relacional robusto, ótimo para projetos acadêmicos e profissionais. Aprendo com ele a lidar com dados complexos.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 
@@ -47,8 +50,10 @@ Base de toda aplicação web. É a linguagem de marcação que estrutura o conte
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 
  🔌 Hardware e IoT
+ 
  Plataforma que conecta software ao mundo físico. Uso para projetos práticos de automação e eletrônica, expandindo minha visão como desenvolvedor.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
+ 
 </div>
 
 Sempre busco aprender e experimentar novas tecnologias, evoluindo continuamente como desenvolvedor. 
