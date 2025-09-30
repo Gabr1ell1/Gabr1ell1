@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/Gabr1ell1">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Olá!%20Meu%20nome%20é%20o%20Gabrielly!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Olá!%20My%20name%20is%20Gabrielly!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 	
 ## Tecnologias utilizadas
