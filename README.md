@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,100:8A2BE2&height=200&section=header&text=Hello!%20My%20name%20is%20Gabrielly!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 	
+<!--
 ## Tecnologias utilizadas
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência e venho desenvolvendo projetos:
 
@@ -36,7 +37,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 ##
 Sempre busco aprender e experimentar novas tecnologias, evoluindo continuamente como desenvolvedor. 
 Meu objetivo é não apenas dominar as ferramentas que já utilizo, mas também explorar novas linguagens, frameworks e metodologias que possam agregar valor aos projetos.
-
+-->
 Conheça meu perfil no Linkedln!!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriellynasserb)
