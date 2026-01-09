@@ -2,7 +2,8 @@
 
 ✍️Early-career developer.
 
-✨ Our time on Earth is limited. Enjoy every moment as if it were your last.
+> *Our time on Earth is limited.  
+> Enjoy every moment as if it were your last.*
 
 
 ## 🌐 Let's Connect
