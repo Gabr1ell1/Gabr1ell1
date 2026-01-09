@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FGabys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellynasserb/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gabr1ell1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabr1ell1)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-Gabr1ell1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabr1ell1)
 
 
 
