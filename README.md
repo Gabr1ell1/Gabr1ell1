@@ -1,6 +1,6 @@
 # Hi! I'm Gabys
 
-✍️Early-career developer.
+Early-career developer.
 
 > *Our time on Earth is limited.  
 > Enjoy every moment as if it were your last.*
