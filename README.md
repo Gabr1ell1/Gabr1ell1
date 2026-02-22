@@ -16,8 +16,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FGabys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellynasserb/)
-[![Email](https://img.shields.io/badge/Email-Gabrielly%20Asser%20B-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellynasserb@gmail.com)
-
+<a href="https://medium.com/gabriellynasserb@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="gabriellynasserb@gmail.com" height="30" width="40" /></a></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
