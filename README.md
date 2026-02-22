@@ -8,8 +8,6 @@
 <div align="center">
 <a href="https://github.com/Gabr1ell1">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabr1ell1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabr1ell1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabr1ell1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabr1ell1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabr1ell1&theme=2077" height="180em" />
 </div>
