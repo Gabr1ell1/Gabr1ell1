@@ -16,6 +16,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FGabys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellynasserb/)
+[![Email](https://img.shields.io/badge/Email-in%2FGabys-0A66C2?style=for-the-badge&logo=email&logoColor=white)](https://gabriellyasserb@gmail.com/)
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
