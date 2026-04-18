@@ -8,14 +8,14 @@
 
 💡 Interesse principal em Dados, com base em desenvolvimento de sistemas.
 
-### 📊 Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+|
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Desenvolvimento
+|
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Estudando no momento: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,9 +35,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FGabys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellynasserb/)
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabys-portfolio-gilt.vercel.app/)
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabys-portfolio-gilt.vercel.app/)
+
 
 <!--[![GitHub](https://img.shields.io/badge/GitHub-Gabr1ell1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabr1ell1)
 
